@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build:webos": "cd webos-client && ng build --project=webos-client --configuration production",
+    "package:webos": "cd webos-app && ares-package . && mv com.yourcompany.signage_1.0.0_all.ipk ../dist/"
+  },
+  "devDependencies": {
+    "@angular/cli": "...",
+    "ares-cli": "..."
+  }
+}
+
