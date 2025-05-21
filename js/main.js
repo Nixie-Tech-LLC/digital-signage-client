@@ -19,7 +19,7 @@ function fetchContent() {
     })
     .catch(err => {
       console.error("Failed to fetch content:", err);
-      contentDiv.innerHTML = "Error fetching content.";
+      contentDiv.innerHTML = "No screen assigned";
     });
 }
 
