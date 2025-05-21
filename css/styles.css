@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+}
+
+#screen-code {
+  font-size: 3em;
+  color: #00ffcc;
+}
+
+#content {
+  margin-top: 50px;
+  font-size: 2em;
+}

@@ -1,0 +1,11 @@
+{
+  "id": "com.nixietech.digitalsignage",
+  "version": "0.0.1",
+  "vendor": "Nixie Tech LLC",
+  "type": "web",
+  "main": "index.html",
+  "title": "Nixie Signage",
+  "icon": "icons/icon.png",
+  "requiredPermissions": ["network"],
+  "largeIcon": "icons/icon.png"
+}
